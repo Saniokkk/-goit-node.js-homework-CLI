@@ -1,1 +1,1 @@
-# -goit-node.js-homework-CLI
+# GoIT-NodeJS-CLI
